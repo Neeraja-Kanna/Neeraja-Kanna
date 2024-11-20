@@ -1,15 +1,11 @@
 # Hi, I'm Neeraja Kanna 👋
 
-Welcome to my GitHub profile! I'm a highly motivated Final-year AI and ML student with a strong foundation in programming, data science, data structures, and algorithms. I am eager to contribute to innovative projects and learn from industry leaders through internship opportunities.
-
-## 🚀 Objective
-Highly motivated Final-year AI and ML student with strong skills in programming, Data Science, Data Structures, and Algorithms. Eager to contribute to innovative projects and learn from industry leaders through an internship opportunity.
+Welcome to my GitHub profile! I'm a Final-year AI and ML student with a strong foundation in programming, data science, data structures, and algorithms. I am eager to contribute to innovative projects. Everyday is a new day to learn so many amazing things, excited to see what's in the future store..
 
 ## 🎓 Education
-**BTech in AI & ML**, Swarnandhra College of Engineering and Technology, Narsapur  
+**BTech in AI & ML**, Swarnandhra College of Engineering and Technology, Narsapur, AP, India  
 *CGPA: 9.42* | *Expected 2025*  
-*AP, India*  
-
+ 
 Relevant Coursework:
 - Computing in Python, Java
 - Data Structures and Algorithms
@@ -26,9 +22,9 @@ Relevant Coursework:
 - **Databases:** MySQL, MongoDB  
 - **Developer Tools:** GitHub, Google Colab, VS Code, Pycharm, Eclipse  
 - **Certifications:**  
-   - NPTEL certified in Data Science for Python
-   - Theory of Computation
-   - Data Structures and Algorithms with Java
+   - NPTEL certified in Data Science for Python (ELITE + Silver)
+   - NPTEL Certificaion in Theory of Computation (ELITE)
+   - NPTEL Certificaion in Data Structures and Algorithms with Java 
 
 ## 💼 Experience
 
@@ -60,13 +56,8 @@ Developed an **Object Detection model** to ensure safety gear compliance for con
 
 ## 🏆 Extra-Curricular Activities
 - Serving as **Chair Person** of **IEEE CIS Student branch Chapter** at Swarnandhra, organized and managed several **Technical and Non-Technical Events**.  
-- Participated and secured **first place** in several **Hackathons**, **Project Expos**, and **Presentation** competitions.
+- Participated and secured **first place** in several **Hackathons**, **Project Expos**, and **Presentation** competitions like IEEEXtreme 17.0 & 18.0 , PALS ECU CTF Competition, Ideathons etc.,
 
 ## 📫 Reach Me
 - **Email:** [neerajakanna786@gmail.com](mailto:neerajakanna786@gmail.com)
-- **LinkedIn:** [Neeraja Kanna](https://www.linkedin.com/in/neerajakanna)
-
-## 📊 GitHub Stats
-
-![Neeraja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajakanna&show_icons=true)
-
+- **LinkedIn:** [Neeraja Kanna](https://www.linkedin.com/in/neeraja-kanna/)
