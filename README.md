@@ -40,17 +40,17 @@ Relevant Coursework:
 
 ## 📂 Projects
 
-### [StockOptima: The Future of Commodities Forecasting](#)  
+### [StockOptima: The Future of Commodities Forecasting](https://github.com/Neeraja-Kanna/StockOptima)  
 Developed an **LSTM-based deep learning model** & deployed using a fully responsive webpage for accurate price prediction and forecasting of 22 essential food commodities across India.  
 - LSTM model built using **TensorFlow** and **Flask**  
 - Frontend developed with **React.js** and **Vite**  
 - MongoDB as the database  
 
-### [Weather EDA](#)  
+### [Weather EDA](https://github.com/Neeraja-Kanna/weather)  
 This project is a **Weather Data Exploratory Analysis Tool** designed to perform in-depth analysis on weather datasets in **.csv** format.  
 - Performs data cleaning, statistical analysis, advanced analysis, and data visualization techniques to extract actionable insights.  
 
-### [Safe Build AI](#)  
+### [Safe Build AI](https://github.com/Neeraja-Kanna/CP)  
 Developed an **Object Detection model** to ensure safety gear compliance for construction site workers.  
 - Deployed the model on a **Streamlit** platform for easy access and monitoring.
 
